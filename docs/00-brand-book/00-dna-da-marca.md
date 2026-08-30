@@ -231,13 +231,12 @@ As soluções desenvolvidas para clientes devem atender à identidade, ao contex
 
 Elas representam o trabalho da Atlas, mas não precisam adotar sua identidade visual ou se tornar produtos da marca.
 
-
 ---
 
 # Status do Documento
 
-Versão: 1.1 (Rascunho)
+Versão: 1.0
 
-Status: Em revisão
+Status: Aprovado
 
-Última atualização: 29/08/2026
+Última atualização: 30/08/2026
