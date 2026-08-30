@@ -1,211 +1,243 @@
-# DNA da Marca
+# DNA da Marca Atlas
 
-> O DNA da Marca define a essência da Atlas. Ele orienta todas as decisões relacionadas à identidade visual, comunicação, interface, experiência do usuário e evolução da plataforma.
-
-![DNA da Marca](../../assets/branding/00-dna-da-marca.png)
+> Este documento define a essência institucional da Atlas e orienta sua atuação, sua comunicação e a criação de produtos e soluções digitais.
 
 ---
 
-# 1. Objetivo
+# 1. A Atlas
 
-Definir a identidade da Atlas para que toda a plataforma transmita uma experiência consistente, independentemente do dispositivo, interface ou funcionalidade.
+A Atlas é uma empresa de software que desenvolve produtos próprios e soluções digitais para diferentes necessidades, desde experiências simples até sistemas completos.
 
-A Atlas não deve ser percebida apenas como um software de automação residencial.
+A empresa atua de forma híbrida:
 
-Ela deve transmitir a sensação de que existe uma inteligência silenciosa, confiável e sempre presente cuidando da casa.
+- desenvolvendo produtos próprios;
+- criando soluções digitais para clientes.
 
----
-
-# 2. Essência da Marca
-
-A Atlas representa uma inteligência invisível.
-
-Ela não busca chamar atenção.
-
-Ela permanece em segundo plano, observando, aprendendo e auxiliando apenas quando necessário.
-
-Sua presença deve transmitir calma, confiança e precisão.
+O tipo, a tecnologia e a complexidade de cada solução devem ser definidos de acordo com a necessidade que ela pretende atender.
 
 ---
 
-# 3. Missão
+# 2. Essência
 
-Facilitar a vida das pessoas através da tecnologia, tornando a casa mais inteligente, segura e confortável, sem abrir mão da privacidade e do controle do usuário.
+> Transformar necessidades reais em soluções digitais claras, confiáveis e bem construídas.
 
----
+A essência da Atlas orienta todas as suas decisões.
 
-# 4. Visão
-
-Ser uma referência em automação residencial inteligente, priorizando processamento local, transparência e uma experiência premium.
-
-No futuro, evoluir para um ecossistema completo de soluções inteligentes através da plataforma Atlas.
+Independentemente do tamanho ou do tipo de projeto, cada solução deve possuir uma finalidade clara, ser executada com cuidado e entregar valor real.
 
 ---
 
-# 5. Valores
+# 3. Propósito
 
-A Atlas será construída sobre os seguintes valores:
+> Aproximar pessoas e tecnologia por meio de soluções digitais que simplificam necessidades reais e ampliam possibilidades.
 
-- Inteligência
-- Transparência
-- Privacidade
-- Segurança
-- Elegância
-- Simplicidade
-- Confiabilidade
-- Precisão
-- Evolução contínua
+A Atlas existe para tornar a tecnologia mais útil e próxima das pessoas, utilizando-a como instrumento para resolver problemas, criar oportunidades e melhorar experiências.
 
 ---
 
-# 6. Personalidade
+# 4. Missão
 
-Se a Atlas fosse uma pessoa, ela seria:
+> Desenvolver produtos próprios e soluções digitais para clientes, transformando necessidades reais em experiências claras, confiáveis e bem construídas.
 
-- Inteligente
-- Calma
-- Educada
-- Prestativa
-- Discreta
-- Organizada
-- Confiante
-- Precisa
-
-A Atlas nunca deve parecer arrogante, exageradamente informal ou infantil.
+A missão representa a atuação presente da Atlas e deve orientar tanto a criação de produtos próprios quanto o desenvolvimento de projetos para clientes.
 
 ---
 
-# 7. Como a Atlas deve ser percebida
+# 5. Visão
 
-O usuário deve sentir que:
+> Ser reconhecida pela capacidade de criar soluções digitais relevantes, confiáveis e duradouras, construindo produtos e relações que evoluem junto às necessidades das pessoas e dos negócios.
 
-- A casa está sempre sob controle.
-- A Atlas está presente, mesmo quando não aparece.
-- Tudo funciona de forma natural.
-- A tecnologia trabalha para as pessoas.
-- Existe inteligência por trás de cada ação.
+A evolução da Atlas deve acontecer por meio da qualidade de seus produtos, da consistência de suas entregas e da confiança construída ao longo do tempo.
 
 ---
 
-# 8. O que diferencia a Atlas
+# 6. Promessa da Marca
 
-A Atlas não pretende competir apenas por quantidade de funcionalidades.
+> Compreender cada necessidade antes de propor uma solução, construir com clareza e entregar apenas o que gera valor.
 
-Seu diferencial será a experiência.
+A Atlas não deve começar um projeto pela escolha de uma tecnologia ou pela quantidade de funcionalidades.
 
-Ela será construída para oferecer:
+Antes de construir, é necessário compreender:
 
-- Processamento local sempre que possível.
-- Interface moderna.
-- Design consistente.
-- Explicação das automações.
-- Controle total do usuário.
-- Forte preocupação com privacidade.
+- o problema;
+- o contexto;
+- as pessoas envolvidas;
+- o resultado esperado;
+- as limitações existentes;
+- as possibilidades de evolução.
 
----
-
-# 9. Experiência desejada
-
-Ao utilizar a Atlas, o usuário deve sentir:
-
-- Segurança
-- Tranquilidade
-- Modernidade
-- Organização
-- Confiança
-- Fluidez
-
-Toda interação deve parecer natural.
+A solução deve nascer desse entendimento.
 
 ---
 
-# 10. Comunicação
+# 7. Posicionamento
 
-A Atlas utiliza uma linguagem:
+> A Atlas desenvolve produtos e soluções digitais a partir da compreensão real de cada necessidade. Tecnologia, complexidade e escala são escolhidas de acordo com o problema — nunca apenas por tendência.
 
-- Clara
-- Objetiva
-- Educada
-- Natural
+A Atlas não utiliza complexidade como demonstração de capacidade.
 
-Exemplo:
+Uma solução simples deve permanecer simples quando isso for suficiente.
 
-"Claro! A luz da sala foi ligada."
-
-Ao invés de:
-
-"OK"
-
-Ou:
-
-"Comando executado."
+Uma solução complexa deve receber a estrutura necessária para funcionar com clareza, confiabilidade e capacidade de evolução.
 
 ---
 
-# 11. Presença Visual
+# 8. Públicos
 
-Mesmo quando não estiver sendo utilizada, a Atlas deve transmitir vida.
+Como empresa híbrida, a Atlas atende dois grupos principais.
 
-Sua presença será representada pelo Pulse Nebula.
+## Clientes
 
-O Pulse permanece em repouso enquanto a casa está funcionando normalmente.
+Pessoas, profissionais e empresas que precisam de uma solução digital.
 
-Quando houver interação, ele desperta e representa visualmente a atividade da plataforma.
+Isso pode incluir:
 
----
+- sites;
+- páginas institucionais;
+- lojas virtuais;
+- sistemas personalizados;
+- plataformas digitais;
+- outras soluções desenvolvidas para necessidades específicas.
 
-# 12. Identidade Visual
+## Usuários dos produtos próprios
 
-A identidade visual da Atlas será baseada em:
+Pessoas e organizações que utilizam produtos concebidos e desenvolvidos pela Atlas.
 
-- Minimalismo
-- Tecnologia
-- Elegância
-- Profundidade
-- Iluminação sutil
-- Elementos holográficos
-- Movimento orgânico
-
----
-
-# 13. Emoções que a Atlas deve transmitir
-
-A Atlas deve despertar:
-
-- Confiança
-- Curiosidade
-- Segurança
-- Fascínio
-- Calma
-
-Nunca deve transmitir ansiedade ou excesso de informação.
+Cada produto próprio poderá possuir público, proposta e experiência específicos.
 
 ---
 
-# 14. Filosofia da Interface
+# 9. Valores
 
-A melhor interface é aquela que desaparece.
+## Clareza
 
-A Atlas deve aparecer apenas quando sua presença agregar valor ao usuário.
+Decisões, processos e soluções devem ser compreensíveis.
 
-Quando em repouso, sua interface deve ser limpa e discreta.
+A clareza deve estar presente na comunicação, no planejamento, no desenvolvimento e na experiência final.
+
+## Propósito
+
+Cada elemento deve existir por uma razão.
+
+Funcionalidades, tecnologias e decisões não devem ser incluídas apenas por tendência, aparência ou expectativa de complexidade.
+
+## Qualidade
+
+Até a solução mais simples deve ser bem executada.
+
+Qualidade não depende do tamanho do projeto, mas do cuidado aplicado em sua construção.
+
+## Confiabilidade
+
+O que for entregue precisa funcionar de maneira consistente.
+
+A confiança é construída por meio de decisões responsáveis, comportamento previsível e cumprimento do que foi proposto.
+
+## Responsabilidade
+
+A tecnologia deve respeitar os usuários, os dados, o contexto e as consequências de sua utilização.
+
+Cada projeto deve considerar os cuidados adequados à realidade em que será utilizado.
+
+## Evolução
+
+As soluções devem poder crescer quando houver uma necessidade real.
+
+Evoluir não significa adicionar complexidade continuamente, mas permitir que cada solução acompanhe mudanças sem perder clareza ou estabilidade.
 
 ---
 
-# 15. Assinatura da Plataforma
+# 10. Personalidade Institucional
 
-A frase que resume a essência da Atlas é:
+A Atlas deve ser percebida como:
 
-> "Existe uma inteligência silenciosa cuidando da sua casa."
+- competente;
+- clara;
+- criteriosa;
+- próxima;
+- confiável;
+- contemporânea.
 
-Esta frase representa o conceito central da plataforma e deve orientar todas as decisões futuras de design e experiência do usuário.
+A marca não deve parecer:
+
+- arrogante;
+- excessivamente técnica;
+- complicada;
+- genérica;
+- interessada em tecnologia apenas pela novidade.
+
+Essa personalidade orienta a forma como a empresa se apresenta, se comunica, conduz projetos e se relaciona com clientes e usuários.
+
+Ela não substitui a personalidade específica que um produto ou uma interface poderá possuir.
+
+---
+
+# 11. Diferenciais
+
+## Solução proporcional
+
+Cada projeto deve receber apenas a complexidade necessária.
+
+Uma página simples não deve ser tratada como uma plataforma, e um sistema complexo não deve ser construído sobre uma base insuficiente.
+
+## Clareza durante o processo
+
+Decisões, limitações, consequências e possibilidades devem ser comunicadas de maneira compreensível.
+
+O cliente deve entender o que está sendo construído e por que determinada direção foi escolhida.
+
+## Qualidade independente do tamanho
+
+Projetos simples e sistemas completos devem receber o mesmo cuidado com organização, funcionamento e experiência.
+
+A dimensão do projeto altera sua estrutura, mas não o compromisso da Atlas com a qualidade.
+
+## Construção preparada para evoluir
+
+Quando houver uma perspectiva real de crescimento, a solução deve permitir evolução sem exigir reconstruções desnecessárias.
+
+Essa preparação deve ser proporcional ao projeto e não pode justificar complexidade prematura.
+
+## Tecnologia com finalidade
+
+Ferramentas, tendências e inteligência artificial devem ser utilizadas quando agregarem valor.
+
+Nenhuma tecnologia deve ser adotada apenas para tornar uma solução aparentemente mais moderna ou avançada.
+
+---
+
+# 12. Arquitetura da Marca
+
+A Atlas é a marca institucional da empresa.
+
+## Produtos próprios
+
+Os produtos próprios desenvolvidos pela Atlas podem possuir:
+
+- propósito;
+- missão;
+- visão;
+- público;
+- identidade;
+- personalidade;
+- experiência;
+- princípios específicos.
+
+Essas definições devem respeitar os valores e os padrões de qualidade da empresa, mas não precisam reproduzir integralmente sua identidade institucional.
+
+## Soluções para clientes
+
+As soluções desenvolvidas para clientes devem atender à identidade, ao contexto e às necessidades de cada cliente.
+
+Elas representam o trabalho da Atlas, mas não precisam adotar sua identidade visual ou se tornar produtos da marca.
+
 
 ---
 
 # Status do Documento
 
-Versão: 1.0 (Rascunho)
+Versão: 1.1 (Rascunho)
 
-Status: Em desenvolvimento
+Status: Em revisão
 
 Última atualização: 29/08/2026
