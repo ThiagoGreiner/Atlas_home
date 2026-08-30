@@ -37,7 +37,7 @@ A Atlas existe para tornar a tecnologia mais útil e próxima das pessoas, utili
 
 # 4. Missão
 
-> Desenvolver produtos próprios e soluções digitais para clientes, transformando necessidades reais em experiências claras, confiáveis e bem construídas.
+> Desenvolver produtos próprios e soluções digitais para clientes, combinando entendimento, execução cuidadosa e tecnologia adequada a cada contexto.
 
 A missão representa a atuação presente da Atlas e deve orientar tanto a criação de produtos próprios quanto o desenvolvimento de projetos para clientes.
 
